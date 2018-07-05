@@ -1,8 +1,8 @@
 # FeedReader
 Testing a web-based application that reads RSS feeds.
 
-How to run:<br>
+<h1>How to run:</h1><br>
 1- Download this repo<br>
 2- Open downloaded folder<br>
 
-Dependencies:<br> 
+<h1>Dependencies:</h1><br> 
