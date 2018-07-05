@@ -6,3 +6,5 @@ Testing a web-based application that reads RSS feeds.
 2- Open downloaded folder<br>
 
 <h1>Dependencies:</h1><br> 
+- My Udacity mentor, Marcello :)<br>
+- Stack Overflow<br>
