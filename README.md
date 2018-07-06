@@ -40,10 +40,7 @@ This project helped me learn how to use Jasmine to write a number of tests again
 9- Find the "index.html" file. Right click and choose "open with Google Chrome".
 
 
-4- Find and click on the "jasmine" folder within.
-
-
-8- Voila! Test the project with Jasmine<br>
+10- Scroll to the bottom of the feed. You'll see the Jasmine test suites at the bottom.
 
 
 ## Dependencies:
