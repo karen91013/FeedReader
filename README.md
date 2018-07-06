@@ -8,7 +8,8 @@ Testing a web-based application that reads RSS feeds.
 4- Find and click on the "jasmine" folder within<br>
 5- Then click on "spec" folder<br>
 6- Open "feedreader.js" with Google Chrome<br>
-7- Voila! Test the project with Jasmine<br>
+7- Make sure you open "index.html" as well to see the output of the feeds<br>
+8- Voila! Test the project with Jasmine<br>
 
 <h1>Dependencies:</h1><br> 
 - My Udacity mentor, Marcello :)<br>
