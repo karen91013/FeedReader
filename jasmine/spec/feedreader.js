@@ -64,7 +64,7 @@ $(function() {
 		// checks for first entry
 		it ('loads single entry element', function(done) {
 			var feed = document.querySelector('.feed');
-			expect(feed.getElementByClassName('entry').length).not.toBe(0);
+			expect(feed.getElementsByClassName('entry').length).not.toBe(0);
 			done();
 		});
 	});
